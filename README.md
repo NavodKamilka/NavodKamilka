@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux toolkit,Springboot, VueJs**
 
-- 💬 Ask me about **ReactJs, NodeJs,ExpressJs,Java,JavaScript,TypeScript**
+- 💬 Ask me about **ReactJs, NodeJs,ExpressJs,Java,JavaScript,TypeScript,Laravel**
 
 - 📫 How to reach me **navodkamilka98@gmail.com**
 
